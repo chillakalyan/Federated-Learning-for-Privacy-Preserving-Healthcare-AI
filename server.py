@@ -1,0 +1,10 @@
+import flwr as fl
+
+print("🚀 Starting Federated Learning Server...")
+
+fl.server.start_server(
+    server_address="localhost:8080",
+    config=fl.server.ServerConfig(num_rounds=3),
+)
+
+print("✅ Server stopped")
