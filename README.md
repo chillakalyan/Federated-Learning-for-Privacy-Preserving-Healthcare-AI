@@ -1,4 +1,4 @@
-# 🧾 Federated Learning for Privacy-Preserving Healthcre AI
+# 🧾 Federated Learning for Privacy-Preserving Healthce AI
 
 ---
 
